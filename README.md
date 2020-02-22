@@ -8,11 +8,15 @@ It's a bit tricky and annoying but you are unable to exit or using ctrl+c while 
 there will be 2 difficulties.
 
 ● the easy difficulty use the *sh* command to open
+
 ***example***
+
 *sh lock.sh*
 
 ● the hard difficulty use the *bash* or *./* commands to open
+
 ***example***
+
 *bash lock.sh* or *./lock.sh*
 
 The last one is a bit impossible but i know you can do it.
